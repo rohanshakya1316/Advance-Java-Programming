@@ -6,3 +6,9 @@
 
 *.jar
 
+JavaServletLab/.smarttomcat
+JavaServletLab/.idea
+JavaServletLab/.mvn
+JavaServletLab/src/main/resources
+
+JavaServletLab/pom.xml
