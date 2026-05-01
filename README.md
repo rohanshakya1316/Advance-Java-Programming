@@ -211,7 +211,7 @@ By completing these programs, you will understand:
 
 **Rohan Man Shakya**
 
-GitHub: github.com/rohanshakya1316/
+GitHub: [Rohan Man Shakya](https://github.com/rohanshakya1316)
 
 ---
 
